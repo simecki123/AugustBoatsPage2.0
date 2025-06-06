@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Willkommen bei Boat Rental Co.",
+    "description": "Entdecken Sie das Paradies mit unseren Premium-Bootsvermietungen"
+  },
+  "Navigation": {
+    "home": "Startseite",
+    "boats": "Boote",
+    "terms": "Bedingungen"
+  }
+}

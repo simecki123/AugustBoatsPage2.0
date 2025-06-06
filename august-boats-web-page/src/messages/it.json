@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Benvenuti a Boat Rental Co.",
+    "description": "Scopri il paradiso con i nostri servizi premium di noleggio barche"
+  },
+  "Navigation": {
+    "home": "Casa",
+    "boats": "Barche",
+    "terms": "Termini"
+  }
+}

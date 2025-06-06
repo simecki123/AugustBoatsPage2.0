@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Welcome to Boat Rental Co.",
+    "description": "Discover paradise with our premium services of renting boats"
+  },
+  "Navigation": {
+    "home": "Home",
+    "boats": "Boats",
+    "terms": "Conditions"
+  }
+}

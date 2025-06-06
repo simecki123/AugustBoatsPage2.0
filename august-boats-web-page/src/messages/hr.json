@@ -1,0 +1,11 @@
+{
+  "HomePage": {
+    "title": "Dobrodošli u Boat Rental Co.",
+    "description": "Otkrijte raj s našim premium uslugama najma brodova"
+  },
+  "Navigation": {
+    "home": "Početna",
+    "boats": "Brodovi",
+    "terms": "Uvjeti"
+  }
+}
